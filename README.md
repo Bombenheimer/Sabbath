@@ -10,3 +10,4 @@ sprinkle poopy pie cakes
 - [ ] Add Docs for functions
 - [ ] Add GUI option screen
 - [ ] Add password entry
+- [ ] Make README less ugly
